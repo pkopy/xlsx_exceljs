@@ -1,0 +1,18 @@
+{
+  "name": "radwag",
+  "version": "1.0.0",
+  "description": "This package fills an excel file",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "exceljs": "^1.12.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "pkopy",
+  "license": "ISC"
+}

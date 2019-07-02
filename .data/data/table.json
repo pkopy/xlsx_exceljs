@@ -1,0 +1,2378 @@
+[
+  {
+    "id_comparator": 2125,
+    "Cycle": 1,
+    "date": "2019-06-04T15:18:06.000Z",
+    "mass_in_g": 0.0000011,
+    "THBHumidity": 55,
+    "THBPressure": 992.0999755859375,
+    "THBTemperature": 23.579999923706055
+  },
+  {
+    "id_comparator": 2125,
+    "Cycle": 1,
+    "date": "2019-06-04T15:20:00.000Z",
+    "mass_in_g": 0.0000713,
+    "THBHumidity": 55,
+    "THBPressure": 992.0999755859375,
+    "THBTemperature": 23.56999969482422
+  },
+  {
+    "id_comparator": 2125,
+    "Cycle": 1,
+    "date": "2019-06-04T15:21:53.000Z",
+    "mass_in_g": 0.0000687,
+    "THBHumidity": 55,
+    "THBPressure": 992.0999755859375,
+    "THBTemperature": 23.559999465942383
+  },
+  {
+    "id_comparator": 2125,
+    "Cycle": 1,
+    "date": "2019-06-04T15:23:49.000Z",
+    "mass_in_g": -0.0000033,
+    "THBHumidity": 55.099998474121094,
+    "THBPressure": 992.0999755859375,
+    "THBTemperature": 23.559999465942383
+  },
+  {
+    "id_comparator": 2125,
+    "Cycle": 2,
+    "date": "2019-06-04T15:25:43.000Z",
+    "mass_in_g": -0.000006,
+    "THBHumidity": 55,
+    "THBPressure": 992,
+    "THBTemperature": 23.559999465942383
+  },
+  {
+    "id_comparator": 2125,
+    "Cycle": 2,
+    "date": "2019-06-04T15:27:37.000Z",
+    "mass_in_g": 0.000065,
+    "THBHumidity": 55.099998474121094,
+    "THBPressure": 992,
+    "THBTemperature": 23.549999237060547
+  },
+  {
+    "id_comparator": 2125,
+    "Cycle": 2,
+    "date": "2019-06-04T15:29:30.000Z",
+    "mass_in_g": 0.0000643,
+    "THBHumidity": 55,
+    "THBPressure": 992,
+    "THBTemperature": 23.549999237060547
+  },
+  {
+    "id_comparator": 2125,
+    "Cycle": 2,
+    "date": "2019-06-04T15:31:25.000Z",
+    "mass_in_g": -0.0000098,
+    "THBHumidity": 55,
+    "THBPressure": 992,
+    "THBTemperature": 23.549999237060547
+  },
+  {
+    "id_comparator": 2125,
+    "Cycle": 3,
+    "date": "2019-06-04T15:33:19.000Z",
+    "mass_in_g": -0.0000107,
+    "THBHumidity": 55,
+    "THBPressure": 992,
+    "THBTemperature": 23.540000915527344
+  },
+  {
+    "id_comparator": 2125,
+    "Cycle": 3,
+    "date": "2019-06-04T15:35:13.000Z",
+    "mass_in_g": 0.0000615,
+    "THBHumidity": 55.099998474121094,
+    "THBPressure": 992,
+    "THBTemperature": 23.540000915527344
+  },
+  {
+    "id_comparator": 2125,
+    "Cycle": 3,
+    "date": "2019-06-04T15:37:06.000Z",
+    "mass_in_g": 0.0000597,
+    "THBHumidity": 55.099998474121094,
+    "THBPressure": 991.9000244140625,
+    "THBTemperature": 23.549999237060547
+  },
+  {
+    "id_comparator": 2125,
+    "Cycle": 3,
+    "date": "2019-06-04T15:39:01.000Z",
+    "mass_in_g": -0.0000105,
+    "THBHumidity": 55,
+    "THBPressure": 992,
+    "THBTemperature": 23.540000915527344
+  },
+  {
+    "id_comparator": 2125,
+    "Cycle": 4,
+    "date": "2019-06-04T15:40:55.000Z",
+    "mass_in_g": -0.0000113,
+    "THBHumidity": 55,
+    "THBPressure": 991.9000244140625,
+    "THBTemperature": 23.540000915527344
+  },
+  {
+    "id_comparator": 2125,
+    "Cycle": 4,
+    "date": "2019-06-04T15:42:49.000Z",
+    "mass_in_g": 0.0000592,
+    "THBHumidity": 54.900001525878906,
+    "THBPressure": 991.9000244140625,
+    "THBTemperature": 23.540000915527344
+  },
+  {
+    "id_comparator": 2125,
+    "Cycle": 4,
+    "date": "2019-06-04T15:44:42.000Z",
+    "mass_in_g": 0.0000602,
+    "THBHumidity": 54.900001525878906,
+    "THBPressure": 991.9000244140625,
+    "THBTemperature": 23.540000915527344
+  },
+  {
+    "id_comparator": 2125,
+    "Cycle": 4,
+    "date": "2019-06-04T15:46:37.000Z",
+    "mass_in_g": -0.0000095,
+    "THBHumidity": 54.79999923706055,
+    "THBPressure": 991.7999877929688,
+    "THBTemperature": 23.530000686645508
+  },
+  {
+    "id_comparator": 2125,
+    "Cycle": 5,
+    "date": "2019-06-04T15:48:31.000Z",
+    "mass_in_g": -0.0000131,
+    "THBHumidity": 54.900001525878906,
+    "THBPressure": 991.7999877929688,
+    "THBTemperature": 23.530000686645508
+  },
+  {
+    "id_comparator": 2125,
+    "Cycle": 5,
+    "date": "2019-06-04T15:50:26.000Z",
+    "mass_in_g": 0.0000602,
+    "THBHumidity": 54.900001525878906,
+    "THBPressure": 991.7999877929688,
+    "THBTemperature": 23.530000686645508
+  },
+  {
+    "id_comparator": 2125,
+    "Cycle": 5,
+    "date": "2019-06-04T15:52:19.000Z",
+    "mass_in_g": 0.0000581,
+    "THBHumidity": 54.900001525878906,
+    "THBPressure": 991.7999877929688,
+    "THBTemperature": 23.530000686645508
+  },
+  {
+    "id_comparator": 2125,
+    "Cycle": 5,
+    "date": "2019-06-04T15:54:13.000Z",
+    "mass_in_g": -0.00001,
+    "THBHumidity": 54.900001525878906,
+    "THBPressure": 991.7000122070312,
+    "THBTemperature": 23.520000457763672
+  },
+  {
+    "id_comparator": 2125,
+    "Cycle": 6,
+    "date": "2019-06-04T15:56:07.000Z",
+    "mass_in_g": -0.0000106,
+    "THBHumidity": 54.900001525878906,
+    "THBPressure": 991.7000122070312,
+    "THBTemperature": 23.520000457763672
+  },
+  {
+    "id_comparator": 2125,
+    "Cycle": 6,
+    "date": "2019-06-04T15:58:02.000Z",
+    "mass_in_g": 0.0000599,
+    "THBHumidity": 54.70000076293945,
+    "THBPressure": 991.7999877929688,
+    "THBTemperature": 23.510000228881836
+  },
+  {
+    "id_comparator": 2125,
+    "Cycle": 6,
+    "date": "2019-06-04T15:59:55.000Z",
+    "mass_in_g": 0.000062,
+    "THBHumidity": 54.79999923706055,
+    "THBPressure": 991.7000122070312,
+    "THBTemperature": 23.520000457763672
+  },
+  {
+    "id_comparator": 2125,
+    "Cycle": 6,
+    "date": "2019-06-04T16:01:50.000Z",
+    "mass_in_g": -0.0000102,
+    "THBHumidity": 54.79999923706055,
+    "THBPressure": 991.7000122070312,
+    "THBTemperature": 23.510000228881836
+  },
+  {
+    "id_comparator": 2127,
+    "Cycle": 1,
+    "date": "2019-06-04T16:16:09.000Z",
+    "mass_in_g": 0.000011,
+    "THBHumidity": 54.599998474121094,
+    "THBPressure": 991.7999877929688,
+    "THBTemperature": 23.5
+  },
+  {
+    "id_comparator": 2127,
+    "Cycle": 1,
+    "date": "2019-06-04T16:18:04.000Z",
+    "mass_in_g": 0.0001193,
+    "THBHumidity": 54.70000076293945,
+    "THBPressure": 991.7999877929688,
+    "THBTemperature": 23.5
+  },
+  {
+    "id_comparator": 2127,
+    "Cycle": 1,
+    "date": "2019-06-04T16:19:57.000Z",
+    "mass_in_g": 0.000118,
+    "THBHumidity": 54.70000076293945,
+    "THBPressure": 991.7999877929688,
+    "THBTemperature": 23.5
+  },
+  {
+    "id_comparator": 2127,
+    "Cycle": 1,
+    "date": "2019-06-04T16:21:51.000Z",
+    "mass_in_g": 0.0000162,
+    "THBHumidity": 54.70000076293945,
+    "THBPressure": 991.7999877929688,
+    "THBTemperature": 23.5
+  },
+  {
+    "id_comparator": 2127,
+    "Cycle": 2,
+    "date": "2019-06-04T16:23:46.000Z",
+    "mass_in_g": 0.0000169,
+    "THBHumidity": 54.70000076293945,
+    "THBPressure": 991.7999877929688,
+    "THBTemperature": 23.5
+  },
+  {
+    "id_comparator": 2127,
+    "Cycle": 2,
+    "date": "2019-06-04T16:25:40.000Z",
+    "mass_in_g": 0.0001231,
+    "THBHumidity": 54.599998474121094,
+    "THBPressure": 991.9000244140625,
+    "THBTemperature": 23.489999771118164
+  },
+  {
+    "id_comparator": 2127,
+    "Cycle": 2,
+    "date": "2019-06-04T16:27:34.000Z",
+    "mass_in_g": 0.0001227,
+    "THBHumidity": 54.599998474121094,
+    "THBPressure": 991.9000244140625,
+    "THBTemperature": 23.489999771118164
+  },
+  {
+    "id_comparator": 2127,
+    "Cycle": 2,
+    "date": "2019-06-04T16:29:28.000Z",
+    "mass_in_g": 0.000019,
+    "THBHumidity": 54.70000076293945,
+    "THBPressure": 991.9000244140625,
+    "THBTemperature": 23.489999771118164
+  },
+  {
+    "id_comparator": 2127,
+    "Cycle": 3,
+    "date": "2019-06-04T16:31:22.000Z",
+    "mass_in_g": 0.0000181,
+    "THBHumidity": 54.70000076293945,
+    "THBPressure": 991.9000244140625,
+    "THBTemperature": 23.479999542236328
+  },
+  {
+    "id_comparator": 2127,
+    "Cycle": 3,
+    "date": "2019-06-04T16:33:17.000Z",
+    "mass_in_g": 0.0001266,
+    "THBHumidity": 54.5,
+    "THBPressure": 991.9000244140625,
+    "THBTemperature": 23.479999542236328
+  },
+  {
+    "id_comparator": 2127,
+    "Cycle": 3,
+    "date": "2019-06-04T16:35:10.000Z",
+    "mass_in_g": 0.0001277,
+    "THBHumidity": 54.5,
+    "THBPressure": 991.9000244140625,
+    "THBTemperature": 23.489999771118164
+  },
+  {
+    "id_comparator": 2127,
+    "Cycle": 3,
+    "date": "2019-06-04T16:37:04.000Z",
+    "mass_in_g": 0.0000226,
+    "THBHumidity": 54.5,
+    "THBPressure": 992,
+    "THBTemperature": 23.489999771118164
+  },
+  {
+    "id_comparator": 2127,
+    "Cycle": 4,
+    "date": "2019-06-04T16:38:58.000Z",
+    "mass_in_g": 0.0000212,
+    "THBHumidity": 54.599998474121094,
+    "THBPressure": 992,
+    "THBTemperature": 23.479999542236328
+  },
+  {
+    "id_comparator": 2127,
+    "Cycle": 4,
+    "date": "2019-06-04T16:40:53.000Z",
+    "mass_in_g": 0.0001309,
+    "THBHumidity": 54.5,
+    "THBPressure": 991.9000244140625,
+    "THBTemperature": 23.479999542236328
+  },
+  {
+    "id_comparator": 2127,
+    "Cycle": 4,
+    "date": "2019-06-04T16:42:46.000Z",
+    "mass_in_g": 0.0001314,
+    "THBHumidity": 54.599998474121094,
+    "THBPressure": 992,
+    "THBTemperature": 23.479999542236328
+  },
+  {
+    "id_comparator": 2127,
+    "Cycle": 4,
+    "date": "2019-06-04T16:44:40.000Z",
+    "mass_in_g": 0.0000266,
+    "THBHumidity": 54.5,
+    "THBPressure": 991.9000244140625,
+    "THBTemperature": 23.479999542236328
+  },
+  {
+    "id_comparator": 2127,
+    "Cycle": 5,
+    "date": "2019-06-04T16:54:12.000Z",
+    "mass_in_g": 0.0000305,
+    "THBHumidity": 54.5,
+    "THBPressure": 991.9000244140625,
+    "THBTemperature": 23.479999542236328
+  },
+  {
+    "id_comparator": 2127,
+    "Cycle": 5,
+    "date": "2019-06-04T16:56:06.000Z",
+    "mass_in_g": 0.0001398,
+    "THBHumidity": 54.5,
+    "THBPressure": 991.7999877929688,
+    "THBTemperature": 23.469999313354492
+  },
+  {
+    "id_comparator": 2127,
+    "Cycle": 5,
+    "date": "2019-06-04T16:57:59.000Z",
+    "mass_in_g": 0.0001395,
+    "THBHumidity": 54.599998474121094,
+    "THBPressure": 991.9000244140625,
+    "THBTemperature": 23.479999542236328
+  },
+  {
+    "id_comparator": 2127,
+    "Cycle": 5,
+    "date": "2019-06-04T16:59:55.000Z",
+    "mass_in_g": 0.0000338,
+    "THBHumidity": 54.5,
+    "THBPressure": 991.7999877929688,
+    "THBTemperature": 23.469999313354492
+  },
+  {
+    "id_comparator": 2127,
+    "Cycle": 6,
+    "date": "2019-06-04T17:01:49.000Z",
+    "mass_in_g": 0.0000363,
+    "THBHumidity": 54.400001525878906,
+    "THBPressure": 991.9000244140625,
+    "THBTemperature": 23.469999313354492
+  },
+  {
+    "id_comparator": 2127,
+    "Cycle": 6,
+    "date": "2019-06-04T17:03:43.000Z",
+    "mass_in_g": 0.0001463,
+    "THBHumidity": 54.29999923706055,
+    "THBPressure": 991.9000244140625,
+    "THBTemperature": 23.459999084472656
+  },
+  {
+    "id_comparator": 2127,
+    "Cycle": 6,
+    "date": "2019-06-04T17:05:37.000Z",
+    "mass_in_g": 0.0001456,
+    "THBHumidity": 54.20000076293945,
+    "THBPressure": 991.9000244140625,
+    "THBTemperature": 23.469999313354492
+  },
+  {
+    "id_comparator": 2127,
+    "Cycle": 6,
+    "date": "2019-06-04T17:07:31.000Z",
+    "mass_in_g": 0.0000409,
+    "THBHumidity": 54.20000076293945,
+    "THBPressure": 991.9000244140625,
+    "THBTemperature": 23.459999084472656
+  },
+  {
+    "id_comparator": 2129,
+    "Cycle": 1,
+    "date": "2019-06-04T17:21:29.000Z",
+    "mass_in_g": 0.0000043,
+    "THBHumidity": 54.099998474121094,
+    "THBPressure": 991.7999877929688,
+    "THBTemperature": 23.459999084472656
+  },
+  {
+    "id_comparator": 2129,
+    "Cycle": 1,
+    "date": "2019-06-04T17:23:24.000Z",
+    "mass_in_g": 0.0000333,
+    "THBHumidity": 54.099998474121094,
+    "THBPressure": 991.7999877929688,
+    "THBTemperature": 23.450000762939453
+  },
+  {
+    "id_comparator": 2129,
+    "Cycle": 1,
+    "date": "2019-06-04T17:25:18.000Z",
+    "mass_in_g": 0.0000331,
+    "THBHumidity": 54.099998474121094,
+    "THBPressure": 991.7999877929688,
+    "THBTemperature": 23.450000762939453
+  },
+  {
+    "id_comparator": 2129,
+    "Cycle": 1,
+    "date": "2019-06-04T17:27:13.000Z",
+    "mass_in_g": 0.0000085,
+    "THBHumidity": 54.099998474121094,
+    "THBPressure": 991.7999877929688,
+    "THBTemperature": 23.450000762939453
+  },
+  {
+    "id_comparator": 2129,
+    "Cycle": 2,
+    "date": "2019-06-04T17:29:07.000Z",
+    "mass_in_g": 0.0000075,
+    "THBHumidity": 54.099998474121094,
+    "THBPressure": 991.7999877929688,
+    "THBTemperature": 23.459999084472656
+  },
+  {
+    "id_comparator": 2129,
+    "Cycle": 2,
+    "date": "2019-06-04T17:31:02.000Z",
+    "mass_in_g": 0.0000359,
+    "THBHumidity": 54.099998474121094,
+    "THBPressure": 991.7999877929688,
+    "THBTemperature": 23.450000762939453
+  },
+  {
+    "id_comparator": 2129,
+    "Cycle": 2,
+    "date": "2019-06-04T17:32:55.000Z",
+    "mass_in_g": 0.0000361,
+    "THBHumidity": 54.099998474121094,
+    "THBPressure": 991.9000244140625,
+    "THBTemperature": 23.440000534057617
+  },
+  {
+    "id_comparator": 2129,
+    "Cycle": 2,
+    "date": "2019-06-04T17:34:49.000Z",
+    "mass_in_g": 0.0000112,
+    "THBHumidity": 54.099998474121094,
+    "THBPressure": 991.7999877929688,
+    "THBTemperature": 23.450000762939453
+  },
+  {
+    "id_comparator": 2129,
+    "Cycle": 3,
+    "date": "2019-06-04T17:36:43.000Z",
+    "mass_in_g": 0.0000112,
+    "THBHumidity": 54,
+    "THBPressure": 991.7999877929688,
+    "THBTemperature": 23.459999084472656
+  },
+  {
+    "id_comparator": 2129,
+    "Cycle": 3,
+    "date": "2019-06-04T17:38:38.000Z",
+    "mass_in_g": 0.0000394,
+    "THBHumidity": 54,
+    "THBPressure": 991.7999877929688,
+    "THBTemperature": 23.450000762939453
+  },
+  {
+    "id_comparator": 2129,
+    "Cycle": 3,
+    "date": "2019-06-04T17:40:31.000Z",
+    "mass_in_g": 0.0000411,
+    "THBHumidity": 54,
+    "THBPressure": 991.9000244140625,
+    "THBTemperature": 23.450000762939453
+  },
+  {
+    "id_comparator": 2129,
+    "Cycle": 3,
+    "date": "2019-06-04T17:42:25.000Z",
+    "mass_in_g": 0.0000151,
+    "THBHumidity": 54,
+    "THBPressure": 992,
+    "THBTemperature": 23.440000534057617
+  },
+  {
+    "id_comparator": 2129,
+    "Cycle": 4,
+    "date": "2019-06-04T17:44:19.000Z",
+    "mass_in_g": 0.0000175,
+    "THBHumidity": 54,
+    "THBPressure": 991.9000244140625,
+    "THBTemperature": 23.450000762939453
+  },
+  {
+    "id_comparator": 2129,
+    "Cycle": 4,
+    "date": "2019-06-04T17:46:14.000Z",
+    "mass_in_g": 0.0000446,
+    "THBHumidity": 54,
+    "THBPressure": 991.9000244140625,
+    "THBTemperature": 23.450000762939453
+  },
+  {
+    "id_comparator": 2129,
+    "Cycle": 4,
+    "date": "2019-06-04T17:48:07.000Z",
+    "mass_in_g": 0.000044,
+    "THBHumidity": 54,
+    "THBPressure": 991.9000244140625,
+    "THBTemperature": 23.450000762939453
+  },
+  {
+    "id_comparator": 2129,
+    "Cycle": 4,
+    "date": "2019-06-04T17:50:01.000Z",
+    "mass_in_g": 0.0000218,
+    "THBHumidity": 53.900001525878906,
+    "THBPressure": 991.9000244140625,
+    "THBTemperature": 23.450000762939453
+  },
+  {
+    "id_comparator": 2129,
+    "Cycle": 5,
+    "date": "2019-06-04T17:51:56.000Z",
+    "mass_in_g": 0.0000199,
+    "THBHumidity": 53.900001525878906,
+    "THBPressure": 991.9000244140625,
+    "THBTemperature": 23.450000762939453
+  },
+  {
+    "id_comparator": 2129,
+    "Cycle": 5,
+    "date": "2019-06-04T17:53:51.000Z",
+    "mass_in_g": 0.00005,
+    "THBHumidity": 53.79999923706055,
+    "THBPressure": 991.9000244140625,
+    "THBTemperature": 23.440000534057617
+  },
+  {
+    "id_comparator": 2129,
+    "Cycle": 5,
+    "date": "2019-06-04T17:55:44.000Z",
+    "mass_in_g": 0.0000499,
+    "THBHumidity": 53.79999923706055,
+    "THBPressure": 991.9000244140625,
+    "THBTemperature": 23.450000762939453
+  },
+  {
+    "id_comparator": 2129,
+    "Cycle": 5,
+    "date": "2019-06-04T17:57:39.000Z",
+    "mass_in_g": 0.0000248,
+    "THBHumidity": 53.79999923706055,
+    "THBPressure": 991.9000244140625,
+    "THBTemperature": 23.440000534057617
+  },
+  {
+    "id_comparator": 2129,
+    "Cycle": 6,
+    "date": "2019-06-04T17:59:33.000Z",
+    "mass_in_g": 0.0000267,
+    "THBHumidity": 53.79999923706055,
+    "THBPressure": 991.9000244140625,
+    "THBTemperature": 23.440000534057617
+  },
+  {
+    "id_comparator": 2129,
+    "Cycle": 6,
+    "date": "2019-06-04T18:01:28.000Z",
+    "mass_in_g": 0.0000543,
+    "THBHumidity": 53.70000076293945,
+    "THBPressure": 991.9000244140625,
+    "THBTemperature": 23.440000534057617
+  },
+  {
+    "id_comparator": 2129,
+    "Cycle": 6,
+    "date": "2019-06-04T18:03:22.000Z",
+    "mass_in_g": 0.0000551,
+    "THBHumidity": 53.79999923706055,
+    "THBPressure": 991.9000244140625,
+    "THBTemperature": 23.440000534057617
+  },
+  {
+    "id_comparator": 2129,
+    "Cycle": 6,
+    "date": "2019-06-04T18:05:16.000Z",
+    "mass_in_g": 0.0000315,
+    "THBHumidity": 53.79999923706055,
+    "THBPressure": 991.9000244140625,
+    "THBTemperature": 23.440000534057617
+  },
+  {
+    "id_comparator": 2131,
+    "Cycle": 1,
+    "date": "2019-06-04T18:20:48.000Z",
+    "mass_in_g": 0.000008,
+    "THBHumidity": 53.79999923706055,
+    "THBPressure": 991.9000244140625,
+    "THBTemperature": 23.43000030517578
+  },
+  {
+    "id_comparator": 2131,
+    "Cycle": 1,
+    "date": "2019-06-04T18:22:43.000Z",
+    "mass_in_g": 0.0000438,
+    "THBHumidity": 53.70000076293945,
+    "THBPressure": 991.9000244140625,
+    "THBTemperature": 23.420000076293945
+  },
+  {
+    "id_comparator": 2131,
+    "Cycle": 1,
+    "date": "2019-06-04T18:24:37.000Z",
+    "mass_in_g": 0.0000409,
+    "THBHumidity": 53.70000076293945,
+    "THBPressure": 991.9000244140625,
+    "THBTemperature": 23.43000030517578
+  },
+  {
+    "id_comparator": 2131,
+    "Cycle": 1,
+    "date": "2019-06-04T18:26:31.000Z",
+    "mass_in_g": 0.0000131,
+    "THBHumidity": 53.5,
+    "THBPressure": 992,
+    "THBTemperature": 23.420000076293945
+  },
+  {
+    "id_comparator": 2131,
+    "Cycle": 2,
+    "date": "2019-06-04T18:28:25.000Z",
+    "mass_in_g": 0.0000141,
+    "THBHumidity": 53.599998474121094,
+    "THBPressure": 991.9000244140625,
+    "THBTemperature": 23.420000076293945
+  },
+  {
+    "id_comparator": 2131,
+    "Cycle": 2,
+    "date": "2019-06-04T18:30:20.000Z",
+    "mass_in_g": 0.0000474,
+    "THBHumidity": 53.599998474121094,
+    "THBPressure": 991.9000244140625,
+    "THBTemperature": 23.43000030517578
+  },
+  {
+    "id_comparator": 2131,
+    "Cycle": 2,
+    "date": "2019-06-04T18:32:13.000Z",
+    "mass_in_g": 0.0000457,
+    "THBHumidity": 53.5,
+    "THBPressure": 992,
+    "THBTemperature": 23.420000076293945
+  },
+  {
+    "id_comparator": 2131,
+    "Cycle": 2,
+    "date": "2019-06-04T18:34:07.000Z",
+    "mass_in_g": 0.0000182,
+    "THBHumidity": 53.5,
+    "THBPressure": 992,
+    "THBTemperature": 23.40999984741211
+  },
+  {
+    "id_comparator": 2131,
+    "Cycle": 3,
+    "date": "2019-06-04T18:36:01.000Z",
+    "mass_in_g": 0.0000182,
+    "THBHumidity": 53.5,
+    "THBPressure": 992,
+    "THBTemperature": 23.420000076293945
+  },
+  {
+    "id_comparator": 2131,
+    "Cycle": 3,
+    "date": "2019-06-04T18:37:56.000Z",
+    "mass_in_g": 0.0000566,
+    "THBHumidity": 53.599998474121094,
+    "THBPressure": 992,
+    "THBTemperature": 23.420000076293945
+  },
+  {
+    "id_comparator": 2131,
+    "Cycle": 3,
+    "date": "2019-06-04T18:39:49.000Z",
+    "mass_in_g": 0.0000527,
+    "THBHumidity": 53.599998474121094,
+    "THBPressure": 992,
+    "THBTemperature": 23.420000076293945
+  },
+  {
+    "id_comparator": 2131,
+    "Cycle": 3,
+    "date": "2019-06-04T18:41:44.000Z",
+    "mass_in_g": 0.0000236,
+    "THBHumidity": 53.599998474121094,
+    "THBPressure": 992,
+    "THBTemperature": 23.420000076293945
+  },
+  {
+    "id_comparator": 2131,
+    "Cycle": 4,
+    "date": "2019-06-04T18:43:38.000Z",
+    "mass_in_g": 0.0000257,
+    "THBHumidity": 53.599998474121094,
+    "THBPressure": 992,
+    "THBTemperature": 23.420000076293945
+  },
+  {
+    "id_comparator": 2131,
+    "Cycle": 4,
+    "date": "2019-06-04T18:45:32.000Z",
+    "mass_in_g": 0.000062,
+    "THBHumidity": 53.599998474121094,
+    "THBPressure": 992,
+    "THBTemperature": 23.420000076293945
+  },
+  {
+    "id_comparator": 2131,
+    "Cycle": 4,
+    "date": "2019-06-04T18:47:26.000Z",
+    "mass_in_g": 0.0000568,
+    "THBHumidity": 53.5,
+    "THBPressure": 992,
+    "THBTemperature": 23.420000076293945
+  },
+  {
+    "id_comparator": 2131,
+    "Cycle": 4,
+    "date": "2019-06-04T18:49:20.000Z",
+    "mass_in_g": 0.0000276,
+    "THBHumidity": 53.599998474121094,
+    "THBPressure": 992,
+    "THBTemperature": 23.420000076293945
+  },
+  {
+    "id_comparator": 2131,
+    "Cycle": 5,
+    "date": "2019-06-04T18:51:15.000Z",
+    "mass_in_g": 0.0000281,
+    "THBHumidity": 53.5,
+    "THBPressure": 992.0999755859375,
+    "THBTemperature": 23.40999984741211
+  },
+  {
+    "id_comparator": 2131,
+    "Cycle": 5,
+    "date": "2019-06-04T18:53:09.000Z",
+    "mass_in_g": 0.0000635,
+    "THBHumidity": 53.5,
+    "THBPressure": 992.0999755859375,
+    "THBTemperature": 23.420000076293945
+  },
+  {
+    "id_comparator": 2131,
+    "Cycle": 5,
+    "date": "2019-06-04T18:55:03.000Z",
+    "mass_in_g": 0.0000613,
+    "THBHumidity": 53.400001525878906,
+    "THBPressure": 992.0999755859375,
+    "THBTemperature": 23.40999984741211
+  },
+  {
+    "id_comparator": 2131,
+    "Cycle": 5,
+    "date": "2019-06-04T18:56:57.000Z",
+    "mass_in_g": 0.0000325,
+    "THBHumidity": 53.400001525878906,
+    "THBPressure": 992.0999755859375,
+    "THBTemperature": 23.40999984741211
+  },
+  {
+    "id_comparator": 2131,
+    "Cycle": 6,
+    "date": "2019-06-04T18:58:51.000Z",
+    "mass_in_g": 0.0000342,
+    "THBHumidity": 53.400001525878906,
+    "THBPressure": 992.0999755859375,
+    "THBTemperature": 23.40999984741211
+  },
+  {
+    "id_comparator": 2131,
+    "Cycle": 6,
+    "date": "2019-06-04T19:00:46.000Z",
+    "mass_in_g": 0.0000674,
+    "THBHumidity": 53.29999923706055,
+    "THBPressure": 992.0999755859375,
+    "THBTemperature": 23.40999984741211
+  },
+  {
+    "id_comparator": 2131,
+    "Cycle": 6,
+    "date": "2019-06-04T19:02:39.000Z",
+    "mass_in_g": 0.0000686,
+    "THBHumidity": 53.400001525878906,
+    "THBPressure": 992.0999755859375,
+    "THBTemperature": 23.40999984741211
+  },
+  {
+    "id_comparator": 2131,
+    "Cycle": 6,
+    "date": "2019-06-04T19:04:34.000Z",
+    "mass_in_g": 0.0000379,
+    "THBHumidity": 53.400001525878906,
+    "THBPressure": 992.0999755859375,
+    "THBTemperature": 23.40999984741211
+  },
+  {
+    "id_comparator": 2133,
+    "Cycle": 1,
+    "date": "2019-06-04T19:28:50.000Z",
+    "mass_in_g": 0.0000114,
+    "THBHumidity": 53.29999923706055,
+    "THBPressure": 992.2000122070312,
+    "THBTemperature": 23.40999984741211
+  },
+  {
+    "id_comparator": 2133,
+    "Cycle": 1,
+    "date": "2019-06-04T19:30:44.000Z",
+    "mass_in_g": 0.0000179,
+    "THBHumidity": 53.29999923706055,
+    "THBPressure": 992.2999877929688,
+    "THBTemperature": 23.40999984741211
+  },
+  {
+    "id_comparator": 2133,
+    "Cycle": 1,
+    "date": "2019-06-04T19:32:37.000Z",
+    "mass_in_g": 0.0000174,
+    "THBHumidity": 53.29999923706055,
+    "THBPressure": 992.2999877929688,
+    "THBTemperature": 23.40999984741211
+  },
+  {
+    "id_comparator": 2133,
+    "Cycle": 1,
+    "date": "2019-06-04T19:34:31.000Z",
+    "mass_in_g": 0.0000155,
+    "THBHumidity": 53.29999923706055,
+    "THBPressure": 992.2999877929688,
+    "THBTemperature": 23.40999984741211
+  },
+  {
+    "id_comparator": 2133,
+    "Cycle": 2,
+    "date": "2019-06-04T19:36:26.000Z",
+    "mass_in_g": 0.0000149,
+    "THBHumidity": 53.20000076293945,
+    "THBPressure": 992.2999877929688,
+    "THBTemperature": 23.40999984741211
+  },
+  {
+    "id_comparator": 2133,
+    "Cycle": 2,
+    "date": "2019-06-04T19:38:20.000Z",
+    "mass_in_g": 0.0000218,
+    "THBHumidity": 53.20000076293945,
+    "THBPressure": 992.2999877929688,
+    "THBTemperature": 23.399999618530273
+  },
+  {
+    "id_comparator": 2133,
+    "Cycle": 2,
+    "date": "2019-06-04T19:40:13.000Z",
+    "mass_in_g": 0.0000214,
+    "THBHumidity": 53.29999923706055,
+    "THBPressure": 992.2999877929688,
+    "THBTemperature": 23.399999618530273
+  },
+  {
+    "id_comparator": 2133,
+    "Cycle": 2,
+    "date": "2019-06-04T19:42:09.000Z",
+    "mass_in_g": 0.0000232,
+    "THBHumidity": 53.29999923706055,
+    "THBPressure": 992.2999877929688,
+    "THBTemperature": 23.399999618530273
+  },
+  {
+    "id_comparator": 2133,
+    "Cycle": 3,
+    "date": "2019-06-04T19:44:03.000Z",
+    "mass_in_g": 0.0000212,
+    "THBHumidity": 53.099998474121094,
+    "THBPressure": 992.2999877929688,
+    "THBTemperature": 23.40999984741211
+  },
+  {
+    "id_comparator": 2133,
+    "Cycle": 3,
+    "date": "2019-06-04T19:45:57.000Z",
+    "mass_in_g": 0.0000311,
+    "THBHumidity": 53.20000076293945,
+    "THBPressure": 992.2999877929688,
+    "THBTemperature": 23.40999984741211
+  },
+  {
+    "id_comparator": 2133,
+    "Cycle": 3,
+    "date": "2019-06-04T19:47:50.000Z",
+    "mass_in_g": 0.0000286,
+    "THBHumidity": 53.20000076293945,
+    "THBPressure": 992.2000122070312,
+    "THBTemperature": 23.40999984741211
+  },
+  {
+    "id_comparator": 2133,
+    "Cycle": 3,
+    "date": "2019-06-04T19:49:45.000Z",
+    "mass_in_g": 0.000029,
+    "THBHumidity": 53.099998474121094,
+    "THBPressure": 992.2000122070312,
+    "THBTemperature": 23.399999618530273
+  },
+  {
+    "id_comparator": 2133,
+    "Cycle": 4,
+    "date": "2019-06-04T19:51:39.000Z",
+    "mass_in_g": 0.0000285,
+    "THBHumidity": 53.099998474121094,
+    "THBPressure": 992.2999877929688,
+    "THBTemperature": 23.399999618530273
+  },
+  {
+    "id_comparator": 2133,
+    "Cycle": 4,
+    "date": "2019-06-04T19:53:34.000Z",
+    "mass_in_g": 0.0000349,
+    "THBHumidity": 53.099998474121094,
+    "THBPressure": 992.2999877929688,
+    "THBTemperature": 23.399999618530273
+  },
+  {
+    "id_comparator": 2133,
+    "Cycle": 4,
+    "date": "2019-06-04T19:55:28.000Z",
+    "mass_in_g": 0.000034,
+    "THBHumidity": 53.099998474121094,
+    "THBPressure": 992.4000244140625,
+    "THBTemperature": 23.389999389648438
+  },
+  {
+    "id_comparator": 2133,
+    "Cycle": 4,
+    "date": "2019-06-04T19:57:22.000Z",
+    "mass_in_g": 0.0000345,
+    "THBHumidity": 53,
+    "THBPressure": 992.2999877929688,
+    "THBTemperature": 23.399999618530273
+  },
+  {
+    "id_comparator": 2133,
+    "Cycle": 5,
+    "date": "2019-06-04T19:59:16.000Z",
+    "mass_in_g": 0.000034,
+    "THBHumidity": 53.099998474121094,
+    "THBPressure": 992.4000244140625,
+    "THBTemperature": 23.399999618530273
+  },
+  {
+    "id_comparator": 2133,
+    "Cycle": 5,
+    "date": "2019-06-04T20:01:11.000Z",
+    "mass_in_g": 0.0000404,
+    "THBHumidity": 53.099998474121094,
+    "THBPressure": 992.2999877929688,
+    "THBTemperature": 23.389999389648438
+  },
+  {
+    "id_comparator": 2133,
+    "Cycle": 5,
+    "date": "2019-06-04T20:03:04.000Z",
+    "mass_in_g": 0.0000401,
+    "THBHumidity": 53,
+    "THBPressure": 992.4000244140625,
+    "THBTemperature": 23.389999389648438
+  },
+  {
+    "id_comparator": 2133,
+    "Cycle": 5,
+    "date": "2019-06-04T20:04:59.000Z",
+    "mass_in_g": 0.0000385,
+    "THBHumidity": 53,
+    "THBPressure": 992.4000244140625,
+    "THBTemperature": 23.3799991607666
+  },
+  {
+    "id_comparator": 2133,
+    "Cycle": 6,
+    "date": "2019-06-04T20:06:53.000Z",
+    "mass_in_g": 0.0000387,
+    "THBHumidity": 53.099998474121094,
+    "THBPressure": 992.4000244140625,
+    "THBTemperature": 23.389999389648438
+  },
+  {
+    "id_comparator": 2133,
+    "Cycle": 6,
+    "date": "2019-06-04T20:08:47.000Z",
+    "mass_in_g": 0.0000458,
+    "THBHumidity": 52.900001525878906,
+    "THBPressure": 992.4000244140625,
+    "THBTemperature": 23.3799991607666
+  },
+  {
+    "id_comparator": 2133,
+    "Cycle": 6,
+    "date": "2019-06-04T20:10:40.000Z",
+    "mass_in_g": 0.0000455,
+    "THBHumidity": 52.900001525878906,
+    "THBPressure": 992.2999877929688,
+    "THBTemperature": 23.389999389648438
+  },
+  {
+    "id_comparator": 2133,
+    "Cycle": 6,
+    "date": "2019-06-04T20:12:35.000Z",
+    "mass_in_g": 0.0000475,
+    "THBHumidity": 52.900001525878906,
+    "THBPressure": 992.4000244140625,
+    "THBTemperature": 23.389999389648438
+  },
+  {
+    "id_comparator": 2135,
+    "Cycle": 1,
+    "date": "2019-06-04T20:28:11.000Z",
+    "mass_in_g": 0.0000069,
+    "THBHumidity": 52.900001525878906,
+    "THBPressure": 992.2999877929688,
+    "THBTemperature": 23.3799991607666
+  },
+  {
+    "id_comparator": 2135,
+    "Cycle": 1,
+    "date": "2019-06-04T20:30:05.000Z",
+    "mass_in_g": 0.0000524,
+    "THBHumidity": 52.900001525878906,
+    "THBPressure": 992.4000244140625,
+    "THBTemperature": 23.3799991607666
+  },
+  {
+    "id_comparator": 2135,
+    "Cycle": 1,
+    "date": "2019-06-04T20:31:59.000Z",
+    "mass_in_g": 0.0000508,
+    "THBHumidity": 52.900001525878906,
+    "THBPressure": 992.4000244140625,
+    "THBTemperature": 23.3799991607666
+  },
+  {
+    "id_comparator": 2135,
+    "Cycle": 1,
+    "date": "2019-06-04T20:33:54.000Z",
+    "mass_in_g": 0.0000091,
+    "THBHumidity": 52.900001525878906,
+    "THBPressure": 992.4000244140625,
+    "THBTemperature": 23.3799991607666
+  },
+  {
+    "id_comparator": 2135,
+    "Cycle": 2,
+    "date": "2019-06-04T20:35:48.000Z",
+    "mass_in_g": 0.0000076,
+    "THBHumidity": 52.79999923706055,
+    "THBPressure": 992.4000244140625,
+    "THBTemperature": 23.3799991607666
+  },
+  {
+    "id_comparator": 2135,
+    "Cycle": 2,
+    "date": "2019-06-04T20:37:42.000Z",
+    "mass_in_g": 0.0000554,
+    "THBHumidity": 52.79999923706055,
+    "THBPressure": 992.4000244140625,
+    "THBTemperature": 23.3799991607666
+  },
+  {
+    "id_comparator": 2135,
+    "Cycle": 2,
+    "date": "2019-06-04T20:39:36.000Z",
+    "mass_in_g": 0.0000533,
+    "THBHumidity": 52.900001525878906,
+    "THBPressure": 992.4000244140625,
+    "THBTemperature": 23.3799991607666
+  },
+  {
+    "id_comparator": 2135,
+    "Cycle": 2,
+    "date": "2019-06-04T20:41:30.000Z",
+    "mass_in_g": 0.0000116,
+    "THBHumidity": 52.900001525878906,
+    "THBPressure": 992.4000244140625,
+    "THBTemperature": 23.3799991607666
+  },
+  {
+    "id_comparator": 2135,
+    "Cycle": 3,
+    "date": "2019-06-04T20:43:25.000Z",
+    "mass_in_g": 0.0000128,
+    "THBHumidity": 52.79999923706055,
+    "THBPressure": 992.4000244140625,
+    "THBTemperature": 23.3799991607666
+  },
+  {
+    "id_comparator": 2135,
+    "Cycle": 3,
+    "date": "2019-06-04T20:45:19.000Z",
+    "mass_in_g": 0.0000577,
+    "THBHumidity": 52.79999923706055,
+    "THBPressure": 992.4000244140625,
+    "THBTemperature": 23.3799991607666
+  },
+  {
+    "id_comparator": 2135,
+    "Cycle": 3,
+    "date": "2019-06-04T20:47:12.000Z",
+    "mass_in_g": 0.0000588,
+    "THBHumidity": 52.900001525878906,
+    "THBPressure": 992.4000244140625,
+    "THBTemperature": 23.3799991607666
+  },
+  {
+    "id_comparator": 2135,
+    "Cycle": 3,
+    "date": "2019-06-04T20:49:07.000Z",
+    "mass_in_g": 0.0000143,
+    "THBHumidity": 52.79999923706055,
+    "THBPressure": 992.4000244140625,
+    "THBTemperature": 23.3799991607666
+  },
+  {
+    "id_comparator": 2135,
+    "Cycle": 4,
+    "date": "2019-06-04T20:51:01.000Z",
+    "mass_in_g": 0.0000175,
+    "THBHumidity": 52.900001525878906,
+    "THBPressure": 992.4000244140625,
+    "THBTemperature": 23.3700008392334
+  },
+  {
+    "id_comparator": 2135,
+    "Cycle": 4,
+    "date": "2019-06-04T20:52:56.000Z",
+    "mass_in_g": 0.0000646,
+    "THBHumidity": 52.79999923706055,
+    "THBPressure": 992.4000244140625,
+    "THBTemperature": 23.3799991607666
+  },
+  {
+    "id_comparator": 2135,
+    "Cycle": 4,
+    "date": "2019-06-04T20:54:49.000Z",
+    "mass_in_g": 0.000062,
+    "THBHumidity": 52.70000076293945,
+    "THBPressure": 992.4000244140625,
+    "THBTemperature": 23.3799991607666
+  },
+  {
+    "id_comparator": 2135,
+    "Cycle": 4,
+    "date": "2019-06-04T20:56:43.000Z",
+    "mass_in_g": 0.0000188,
+    "THBHumidity": 52.70000076293945,
+    "THBPressure": 992.5,
+    "THBTemperature": 23.3799991607666
+  },
+  {
+    "id_comparator": 2135,
+    "Cycle": 5,
+    "date": "2019-06-04T20:58:37.000Z",
+    "mass_in_g": 0.0000206,
+    "THBHumidity": 52.70000076293945,
+    "THBPressure": 992.4000244140625,
+    "THBTemperature": 23.3700008392334
+  },
+  {
+    "id_comparator": 2135,
+    "Cycle": 5,
+    "date": "2019-06-04T21:00:32.000Z",
+    "mass_in_g": 0.0000664,
+    "THBHumidity": 52.70000076293945,
+    "THBPressure": 992.5,
+    "THBTemperature": 23.3799991607666
+  },
+  {
+    "id_comparator": 2135,
+    "Cycle": 5,
+    "date": "2019-06-04T21:02:26.000Z",
+    "mass_in_g": 0.0000678,
+    "THBHumidity": 52.70000076293945,
+    "THBPressure": 992.4000244140625,
+    "THBTemperature": 23.3799991607666
+  },
+  {
+    "id_comparator": 2135,
+    "Cycle": 5,
+    "date": "2019-06-04T21:04:20.000Z",
+    "mass_in_g": 0.0000262,
+    "THBHumidity": 52.70000076293945,
+    "THBPressure": 992.5,
+    "THBTemperature": 23.3799991607666
+  },
+  {
+    "id_comparator": 2135,
+    "Cycle": 6,
+    "date": "2019-06-04T21:06:15.000Z",
+    "mass_in_g": 0.0000265,
+    "THBHumidity": 52.70000076293945,
+    "THBPressure": 992.4000244140625,
+    "THBTemperature": 23.3799991607666
+  },
+  {
+    "id_comparator": 2135,
+    "Cycle": 6,
+    "date": "2019-06-04T21:08:09.000Z",
+    "mass_in_g": 0.0000737,
+    "THBHumidity": 52.70000076293945,
+    "THBPressure": 992.4000244140625,
+    "THBTemperature": 23.3700008392334
+  },
+  {
+    "id_comparator": 2135,
+    "Cycle": 6,
+    "date": "2019-06-04T21:10:02.000Z",
+    "mass_in_g": 0.0000725,
+    "THBHumidity": 52.70000076293945,
+    "THBPressure": 992.4000244140625,
+    "THBTemperature": 23.3799991607666
+  },
+  {
+    "id_comparator": 2135,
+    "Cycle": 6,
+    "date": "2019-06-04T21:11:57.000Z",
+    "mass_in_g": 0.000031,
+    "THBHumidity": 52.599998474121094,
+    "THBPressure": 992.5,
+    "THBTemperature": 23.3700008392334
+  },
+  {
+    "id_comparator": 2137,
+    "Cycle": 1,
+    "date": "2019-06-04T21:26:55.000Z",
+    "mass_in_g": 0.0000026,
+    "THBHumidity": 52.599998474121094,
+    "THBPressure": 992.5,
+    "THBTemperature": 23.3799991607666
+  },
+  {
+    "id_comparator": 2137,
+    "Cycle": 1,
+    "date": "2019-06-04T21:28:49.000Z",
+    "mass_in_g": 0.0000216,
+    "THBHumidity": 52.599998474121094,
+    "THBPressure": 992.5,
+    "THBTemperature": 23.3700008392334
+  },
+  {
+    "id_comparator": 2137,
+    "Cycle": 1,
+    "date": "2019-06-04T21:30:43.000Z",
+    "mass_in_g": 0.0000226,
+    "THBHumidity": 52.599998474121094,
+    "THBPressure": 992.5,
+    "THBTemperature": 23.3700008392334
+  },
+  {
+    "id_comparator": 2137,
+    "Cycle": 1,
+    "date": "2019-06-04T21:32:37.000Z",
+    "mass_in_g": 0.0000048,
+    "THBHumidity": 52.599998474121094,
+    "THBPressure": 992.5999755859375,
+    "THBTemperature": 23.3700008392334
+  },
+  {
+    "id_comparator": 2137,
+    "Cycle": 2,
+    "date": "2019-06-04T21:34:31.000Z",
+    "mass_in_g": 0.0000058,
+    "THBHumidity": 52.599998474121094,
+    "THBPressure": 992.5,
+    "THBTemperature": 23.3700008392334
+  },
+  {
+    "id_comparator": 2137,
+    "Cycle": 2,
+    "date": "2019-06-04T21:36:26.000Z",
+    "mass_in_g": 0.000025,
+    "THBHumidity": 52.599998474121094,
+    "THBPressure": 992.5,
+    "THBTemperature": 23.3700008392334
+  },
+  {
+    "id_comparator": 2137,
+    "Cycle": 2,
+    "date": "2019-06-04T21:38:19.000Z",
+    "mass_in_g": 0.0000247,
+    "THBHumidity": 52.5,
+    "THBPressure": 992.5999755859375,
+    "THBTemperature": 23.3700008392334
+  },
+  {
+    "id_comparator": 2137,
+    "Cycle": 2,
+    "date": "2019-06-04T21:40:14.000Z",
+    "mass_in_g": 0.0000065,
+    "THBHumidity": 52.5,
+    "THBPressure": 992.5999755859375,
+    "THBTemperature": 23.3700008392334
+  },
+  {
+    "id_comparator": 2137,
+    "Cycle": 3,
+    "date": "2019-06-04T21:42:08.000Z",
+    "mass_in_g": 0.0000085,
+    "THBHumidity": 52.5,
+    "THBPressure": 992.5999755859375,
+    "THBTemperature": 23.3799991607666
+  },
+  {
+    "id_comparator": 2137,
+    "Cycle": 3,
+    "date": "2019-06-04T21:44:02.000Z",
+    "mass_in_g": 0.0000251,
+    "THBHumidity": 52.5,
+    "THBPressure": 992.5999755859375,
+    "THBTemperature": 23.3799991607666
+  },
+  {
+    "id_comparator": 2137,
+    "Cycle": 3,
+    "date": "2019-06-04T21:45:56.000Z",
+    "mass_in_g": 0.0000254,
+    "THBHumidity": 52.5,
+    "THBPressure": 992.5999755859375,
+    "THBTemperature": 23.3700008392334
+  },
+  {
+    "id_comparator": 2137,
+    "Cycle": 3,
+    "date": "2019-06-04T21:47:50.000Z",
+    "mass_in_g": 0.0000103,
+    "THBHumidity": 52.5,
+    "THBPressure": 992.5999755859375,
+    "THBTemperature": 23.3700008392334
+  },
+  {
+    "id_comparator": 2137,
+    "Cycle": 4,
+    "date": "2019-06-04T21:49:44.000Z",
+    "mass_in_g": 0.0000123,
+    "THBHumidity": 52.5,
+    "THBPressure": 992.5999755859375,
+    "THBTemperature": 23.3700008392334
+  },
+  {
+    "id_comparator": 2137,
+    "Cycle": 4,
+    "date": "2019-06-04T21:51:39.000Z",
+    "mass_in_g": 0.0000315,
+    "THBHumidity": 52.5,
+    "THBPressure": 992.5999755859375,
+    "THBTemperature": 23.3799991607666
+  },
+  {
+    "id_comparator": 2137,
+    "Cycle": 4,
+    "date": "2019-06-04T21:53:32.000Z",
+    "mass_in_g": 0.0000314,
+    "THBHumidity": 52.5,
+    "THBPressure": 992.5999755859375,
+    "THBTemperature": 23.3700008392334
+  },
+  {
+    "id_comparator": 2137,
+    "Cycle": 4,
+    "date": "2019-06-04T21:55:26.000Z",
+    "mass_in_g": 0.0000152,
+    "THBHumidity": 52.5,
+    "THBPressure": 992.7000122070312,
+    "THBTemperature": 23.360000610351562
+  },
+  {
+    "id_comparator": 2137,
+    "Cycle": 5,
+    "date": "2019-06-04T21:57:20.000Z",
+    "mass_in_g": 0.0000129,
+    "THBHumidity": 52.5,
+    "THBPressure": 992.7000122070312,
+    "THBTemperature": 23.3700008392334
+  },
+  {
+    "id_comparator": 2137,
+    "Cycle": 5,
+    "date": "2019-06-04T21:59:15.000Z",
+    "mass_in_g": 0.0000338,
+    "THBHumidity": 52.5,
+    "THBPressure": 992.7000122070312,
+    "THBTemperature": 23.3700008392334
+  },
+  {
+    "id_comparator": 2137,
+    "Cycle": 5,
+    "date": "2019-06-04T22:01:08.000Z",
+    "mass_in_g": 0.0000322,
+    "THBHumidity": 52.5,
+    "THBPressure": 992.5999755859375,
+    "THBTemperature": 23.360000610351562
+  },
+  {
+    "id_comparator": 2137,
+    "Cycle": 5,
+    "date": "2019-06-04T22:03:02.000Z",
+    "mass_in_g": 0.0000198,
+    "THBHumidity": 52.400001525878906,
+    "THBPressure": 992.5999755859375,
+    "THBTemperature": 23.3700008392334
+  },
+  {
+    "id_comparator": 2137,
+    "Cycle": 6,
+    "date": "2019-06-04T22:04:57.000Z",
+    "mass_in_g": 0.0000206,
+    "THBHumidity": 52.400001525878906,
+    "THBPressure": 992.7000122070312,
+    "THBTemperature": 23.360000610351562
+  },
+  {
+    "id_comparator": 2137,
+    "Cycle": 6,
+    "date": "2019-06-04T22:06:51.000Z",
+    "mass_in_g": 0.0000379,
+    "THBHumidity": 52.400001525878906,
+    "THBPressure": 992.5999755859375,
+    "THBTemperature": 23.360000610351562
+  },
+  {
+    "id_comparator": 2137,
+    "Cycle": 6,
+    "date": "2019-06-04T22:08:44.000Z",
+    "mass_in_g": 0.0000406,
+    "THBHumidity": 52.400001525878906,
+    "THBPressure": 992.5999755859375,
+    "THBTemperature": 23.3700008392334
+  },
+  {
+    "id_comparator": 2137,
+    "Cycle": 6,
+    "date": "2019-06-04T22:10:38.000Z",
+    "mass_in_g": 0.0000239,
+    "THBHumidity": 52.29999923706055,
+    "THBPressure": 992.5999755859375,
+    "THBTemperature": 23.350000381469727
+  },
+  {
+    "id_comparator": 2139,
+    "Cycle": 1,
+    "date": "2019-06-04T22:25:51.000Z",
+    "mass_in_g": -0.0000072,
+    "THBHumidity": 52.29999923706055,
+    "THBPressure": 992.5999755859375,
+    "THBTemperature": 23.360000610351562
+  },
+  {
+    "id_comparator": 2139,
+    "Cycle": 1,
+    "date": "2019-06-04T22:27:46.000Z",
+    "mass_in_g": -0.0000312,
+    "THBHumidity": 52.400001525878906,
+    "THBPressure": 992.5999755859375,
+    "THBTemperature": 23.360000610351562
+  },
+  {
+    "id_comparator": 2139,
+    "Cycle": 1,
+    "date": "2019-06-04T22:29:40.000Z",
+    "mass_in_g": -0.0000314,
+    "THBHumidity": 52.20000076293945,
+    "THBPressure": 992.5999755859375,
+    "THBTemperature": 23.350000381469727
+  },
+  {
+    "id_comparator": 2139,
+    "Cycle": 1,
+    "date": "2019-06-04T22:31:34.000Z",
+    "mass_in_g": 0.0000014,
+    "THBHumidity": 52.29999923706055,
+    "THBPressure": 992.5999755859375,
+    "THBTemperature": 23.350000381469727
+  },
+  {
+    "id_comparator": 2139,
+    "Cycle": 2,
+    "date": "2019-06-04T22:33:28.000Z",
+    "mass_in_g": -0.0000032,
+    "THBHumidity": 52.29999923706055,
+    "THBPressure": 992.5999755859375,
+    "THBTemperature": 23.350000381469727
+  },
+  {
+    "id_comparator": 2139,
+    "Cycle": 2,
+    "date": "2019-06-04T22:35:23.000Z",
+    "mass_in_g": -0.0000301,
+    "THBHumidity": 52.29999923706055,
+    "THBPressure": 992.5999755859375,
+    "THBTemperature": 23.350000381469727
+  },
+  {
+    "id_comparator": 2139,
+    "Cycle": 2,
+    "date": "2019-06-04T22:37:16.000Z",
+    "mass_in_g": -0.0000329,
+    "THBHumidity": 52.400001525878906,
+    "THBPressure": 992.5999755859375,
+    "THBTemperature": 23.350000381469727
+  },
+  {
+    "id_comparator": 2139,
+    "Cycle": 2,
+    "date": "2019-06-04T22:39:10.000Z",
+    "mass_in_g": -0.0000021,
+    "THBHumidity": 52.29999923706055,
+    "THBPressure": 992.5999755859375,
+    "THBTemperature": 23.350000381469727
+  },
+  {
+    "id_comparator": 2139,
+    "Cycle": 3,
+    "date": "2019-06-04T22:41:04.000Z",
+    "mass_in_g": -0.0000015,
+    "THBHumidity": 52.29999923706055,
+    "THBPressure": 992.5999755859375,
+    "THBTemperature": 23.350000381469727
+  },
+  {
+    "id_comparator": 2139,
+    "Cycle": 3,
+    "date": "2019-06-04T22:42:59.000Z",
+    "mass_in_g": -0.0000262,
+    "THBHumidity": 52.20000076293945,
+    "THBPressure": 992.5999755859375,
+    "THBTemperature": 23.350000381469727
+  },
+  {
+    "id_comparator": 2139,
+    "Cycle": 3,
+    "date": "2019-06-04T22:44:52.000Z",
+    "mass_in_g": -0.0000297,
+    "THBHumidity": 52.20000076293945,
+    "THBPressure": 992.5999755859375,
+    "THBTemperature": 23.350000381469727
+  },
+  {
+    "id_comparator": 2139,
+    "Cycle": 3,
+    "date": "2019-06-04T22:46:46.000Z",
+    "mass_in_g": 0.0000026,
+    "THBHumidity": 52.29999923706055,
+    "THBPressure": 992.5999755859375,
+    "THBTemperature": 23.360000610351562
+  },
+  {
+    "id_comparator": 2139,
+    "Cycle": 4,
+    "date": "2019-06-04T22:48:40.000Z",
+    "mass_in_g": 0.0000037,
+    "THBHumidity": 52.20000076293945,
+    "THBPressure": 992.5999755859375,
+    "THBTemperature": 23.34000015258789
+  },
+  {
+    "id_comparator": 2139,
+    "Cycle": 4,
+    "date": "2019-06-04T22:50:35.000Z",
+    "mass_in_g": -0.0000211,
+    "THBHumidity": 52.20000076293945,
+    "THBPressure": 992.5999755859375,
+    "THBTemperature": 23.34000015258789
+  },
+  {
+    "id_comparator": 2139,
+    "Cycle": 4,
+    "date": "2019-06-04T22:52:28.000Z",
+    "mass_in_g": -0.0000205,
+    "THBHumidity": 52.20000076293945,
+    "THBPressure": 992.5999755859375,
+    "THBTemperature": 23.350000381469727
+  },
+  {
+    "id_comparator": 2139,
+    "Cycle": 4,
+    "date": "2019-06-04T22:54:23.000Z",
+    "mass_in_g": 0.0000091,
+    "THBHumidity": 52.20000076293945,
+    "THBPressure": 992.5,
+    "THBTemperature": 23.34000015258789
+  },
+  {
+    "id_comparator": 2139,
+    "Cycle": 5,
+    "date": "2019-06-04T23:03:54.000Z",
+    "mass_in_g": 0.0000155,
+    "THBHumidity": 52.29999923706055,
+    "THBPressure": 992.4000244140625,
+    "THBTemperature": 23.350000381469727
+  },
+  {
+    "id_comparator": 2139,
+    "Cycle": 5,
+    "date": "2019-06-04T23:05:49.000Z",
+    "mass_in_g": -0.0000108,
+    "THBHumidity": 52.29999923706055,
+    "THBPressure": 992.4000244140625,
+    "THBTemperature": 23.34000015258789
+  },
+  {
+    "id_comparator": 2139,
+    "Cycle": 5,
+    "date": "2019-06-04T23:07:42.000Z",
+    "mass_in_g": -0.00001,
+    "THBHumidity": 52.29999923706055,
+    "THBPressure": 992.5,
+    "THBTemperature": 23.350000381469727
+  },
+  {
+    "id_comparator": 2139,
+    "Cycle": 5,
+    "date": "2019-06-04T23:09:36.000Z",
+    "mass_in_g": 0.0000199,
+    "THBHumidity": 52.29999923706055,
+    "THBPressure": 992.4000244140625,
+    "THBTemperature": 23.350000381469727
+  },
+  {
+    "id_comparator": 2139,
+    "Cycle": 6,
+    "date": "2019-06-04T23:11:30.000Z",
+    "mass_in_g": 0.0000183,
+    "THBHumidity": 52.20000076293945,
+    "THBPressure": 992.4000244140625,
+    "THBTemperature": 23.350000381469727
+  },
+  {
+    "id_comparator": 2139,
+    "Cycle": 6,
+    "date": "2019-06-04T23:13:25.000Z",
+    "mass_in_g": -0.0000063,
+    "THBHumidity": 52.20000076293945,
+    "THBPressure": 992.4000244140625,
+    "THBTemperature": 23.350000381469727
+  },
+  {
+    "id_comparator": 2139,
+    "Cycle": 6,
+    "date": "2019-06-04T23:15:18.000Z",
+    "mass_in_g": -0.0000042,
+    "THBHumidity": 52.099998474121094,
+    "THBPressure": 992.2999877929688,
+    "THBTemperature": 23.34000015258789
+  },
+  {
+    "id_comparator": 2139,
+    "Cycle": 6,
+    "date": "2019-06-04T23:17:12.000Z",
+    "mass_in_g": 0.0000226,
+    "THBHumidity": 52.099998474121094,
+    "THBPressure": 992.2999877929688,
+    "THBTemperature": 23.350000381469727
+  },
+  {
+    "id_comparator": 2141,
+    "Cycle": 1,
+    "date": "2019-06-04T23:31:52.000Z",
+    "mass_in_g": 0.0000155,
+    "THBHumidity": 52.099998474121094,
+    "THBPressure": 992.0999755859375,
+    "THBTemperature": 23.34000015258789
+  },
+  {
+    "id_comparator": 2141,
+    "Cycle": 1,
+    "date": "2019-06-04T23:33:46.000Z",
+    "mass_in_g": 0.0000271,
+    "THBHumidity": 52,
+    "THBPressure": 992,
+    "THBTemperature": 23.34000015258789
+  },
+  {
+    "id_comparator": 2141,
+    "Cycle": 1,
+    "date": "2019-06-04T23:35:39.000Z",
+    "mass_in_g": 0.0000269,
+    "THBHumidity": 52,
+    "THBPressure": 992.0999755859375,
+    "THBTemperature": 23.34000015258789
+  },
+  {
+    "id_comparator": 2141,
+    "Cycle": 1,
+    "date": "2019-06-04T23:37:34.000Z",
+    "mass_in_g": 0.0000189,
+    "THBHumidity": 52,
+    "THBPressure": 992,
+    "THBTemperature": 23.350000381469727
+  },
+  {
+    "id_comparator": 2141,
+    "Cycle": 2,
+    "date": "2019-06-04T23:39:28.000Z",
+    "mass_in_g": 0.0000224,
+    "THBHumidity": 52,
+    "THBPressure": 992,
+    "THBTemperature": 23.34000015258789
+  },
+  {
+    "id_comparator": 2141,
+    "Cycle": 2,
+    "date": "2019-06-04T23:41:22.000Z",
+    "mass_in_g": 0.0000305,
+    "THBHumidity": 52,
+    "THBPressure": 992.0999755859375,
+    "THBTemperature": 23.34000015258789
+  },
+  {
+    "id_comparator": 2141,
+    "Cycle": 2,
+    "date": "2019-06-04T23:43:15.000Z",
+    "mass_in_g": 0.0000286,
+    "THBHumidity": 52.099998474121094,
+    "THBPressure": 992.0999755859375,
+    "THBTemperature": 23.34000015258789
+  },
+  {
+    "id_comparator": 2141,
+    "Cycle": 2,
+    "date": "2019-06-04T23:45:10.000Z",
+    "mass_in_g": 0.0000222,
+    "THBHumidity": 52,
+    "THBPressure": 992.0999755859375,
+    "THBTemperature": 23.350000381469727
+  },
+  {
+    "id_comparator": 2141,
+    "Cycle": 3,
+    "date": "2019-06-04T23:47:04.000Z",
+    "mass_in_g": 0.0000244,
+    "THBHumidity": 52,
+    "THBPressure": 992.0999755859375,
+    "THBTemperature": 23.34000015258789
+  },
+  {
+    "id_comparator": 2141,
+    "Cycle": 3,
+    "date": "2019-06-04T23:48:59.000Z",
+    "mass_in_g": 0.0000347,
+    "THBHumidity": 52,
+    "THBPressure": 992.0999755859375,
+    "THBTemperature": 23.34000015258789
+  },
+  {
+    "id_comparator": 2141,
+    "Cycle": 3,
+    "date": "2019-06-04T23:50:52.000Z",
+    "mass_in_g": 0.0000344,
+    "THBHumidity": 52,
+    "THBPressure": 992.0999755859375,
+    "THBTemperature": 23.34000015258789
+  },
+  {
+    "id_comparator": 2141,
+    "Cycle": 3,
+    "date": "2019-06-04T23:52:46.000Z",
+    "mass_in_g": 0.0000279,
+    "THBHumidity": 52,
+    "THBPressure": 992,
+    "THBTemperature": 23.34000015258789
+  },
+  {
+    "id_comparator": 2141,
+    "Cycle": 4,
+    "date": "2019-06-04T23:54:40.000Z",
+    "mass_in_g": 0.0000291,
+    "THBHumidity": 52,
+    "THBPressure": 992.0999755859375,
+    "THBTemperature": 23.34000015258789
+  },
+  {
+    "id_comparator": 2141,
+    "Cycle": 4,
+    "date": "2019-06-04T23:56:35.000Z",
+    "mass_in_g": 0.0000388,
+    "THBHumidity": 52,
+    "THBPressure": 992.0999755859375,
+    "THBTemperature": 23.34000015258789
+  },
+  {
+    "id_comparator": 2141,
+    "Cycle": 4,
+    "date": "2019-06-04T23:58:28.000Z",
+    "mass_in_g": 0.0000396,
+    "THBHumidity": 52,
+    "THBPressure": 992,
+    "THBTemperature": 23.34000015258789
+  },
+  {
+    "id_comparator": 2141,
+    "Cycle": 4,
+    "date": "2019-06-05T00:00:22.000Z",
+    "mass_in_g": 0.000031,
+    "THBHumidity": 52,
+    "THBPressure": 992,
+    "THBTemperature": 23.34000015258789
+  },
+  {
+    "id_comparator": 2141,
+    "Cycle": 5,
+    "date": "2019-06-05T00:02:16.000Z",
+    "mass_in_g": 0.0000347,
+    "THBHumidity": 52,
+    "THBPressure": 992,
+    "THBTemperature": 23.34000015258789
+  },
+  {
+    "id_comparator": 2141,
+    "Cycle": 5,
+    "date": "2019-06-05T00:04:11.000Z",
+    "mass_in_g": 0.0000457,
+    "THBHumidity": 52,
+    "THBPressure": 992,
+    "THBTemperature": 23.34000015258789
+  },
+  {
+    "id_comparator": 2141,
+    "Cycle": 5,
+    "date": "2019-06-05T00:06:04.000Z",
+    "mass_in_g": 0.0000454,
+    "THBHumidity": 52,
+    "THBPressure": 992,
+    "THBTemperature": 23.34000015258789
+  },
+  {
+    "id_comparator": 2141,
+    "Cycle": 5,
+    "date": "2019-06-05T00:07:59.000Z",
+    "mass_in_g": 0.0000375,
+    "THBHumidity": 51.900001525878906,
+    "THBPressure": 991.9000244140625,
+    "THBTemperature": 23.34000015258789
+  },
+  {
+    "id_comparator": 2141,
+    "Cycle": 6,
+    "date": "2019-06-05T00:09:53.000Z",
+    "mass_in_g": 0.0000394,
+    "THBHumidity": 51.900001525878906,
+    "THBPressure": 992,
+    "THBTemperature": 23.34000015258789
+  },
+  {
+    "id_comparator": 2141,
+    "Cycle": 6,
+    "date": "2019-06-05T00:11:47.000Z",
+    "mass_in_g": 0.0000483,
+    "THBHumidity": 51.900001525878906,
+    "THBPressure": 992.0999755859375,
+    "THBTemperature": 23.34000015258789
+  },
+  {
+    "id_comparator": 2141,
+    "Cycle": 6,
+    "date": "2019-06-05T00:13:41.000Z",
+    "mass_in_g": 0.0000507,
+    "THBHumidity": 51.900001525878906,
+    "THBPressure": 992,
+    "THBTemperature": 23.34000015258789
+  },
+  {
+    "id_comparator": 2141,
+    "Cycle": 6,
+    "date": "2019-06-05T00:15:35.000Z",
+    "mass_in_g": 0.0000412,
+    "THBHumidity": 51.900001525878906,
+    "THBPressure": 992,
+    "THBTemperature": 23.34000015258789
+  },
+  {
+    "id_comparator": 2143,
+    "Cycle": 1,
+    "date": "2019-06-05T00:38:02.000Z",
+    "mass_in_g": 0.0000136,
+    "THBHumidity": 51.900001525878906,
+    "THBPressure": 991.9000244140625,
+    "THBTemperature": 23.34000015258789
+  },
+  {
+    "id_comparator": 2143,
+    "Cycle": 1,
+    "date": "2019-06-05T00:39:57.000Z",
+    "mass_in_g": 0.0000487,
+    "THBHumidity": 51.900001525878906,
+    "THBPressure": 991.9000244140625,
+    "THBTemperature": 23.34000015258789
+  },
+  {
+    "id_comparator": 2143,
+    "Cycle": 1,
+    "date": "2019-06-05T00:41:50.000Z",
+    "mass_in_g": 0.0000491,
+    "THBHumidity": 51.900001525878906,
+    "THBPressure": 991.9000244140625,
+    "THBTemperature": 23.34000015258789
+  },
+  {
+    "id_comparator": 2143,
+    "Cycle": 1,
+    "date": "2019-06-05T00:43:45.000Z",
+    "mass_in_g": 0.0000137,
+    "THBHumidity": 51.79999923706055,
+    "THBPressure": 991.9000244140625,
+    "THBTemperature": 23.34000015258789
+  },
+  {
+    "id_comparator": 2143,
+    "Cycle": 2,
+    "date": "2019-06-05T00:45:39.000Z",
+    "mass_in_g": 0.0000182,
+    "THBHumidity": 51.900001525878906,
+    "THBPressure": 991.9000244140625,
+    "THBTemperature": 23.34000015258789
+  },
+  {
+    "id_comparator": 2143,
+    "Cycle": 2,
+    "date": "2019-06-05T00:47:33.000Z",
+    "mass_in_g": 0.0000539,
+    "THBHumidity": 51.900001525878906,
+    "THBPressure": 991.9000244140625,
+    "THBTemperature": 23.329999923706055
+  },
+  {
+    "id_comparator": 2143,
+    "Cycle": 2,
+    "date": "2019-06-05T00:49:26.000Z",
+    "mass_in_g": 0.0000545,
+    "THBHumidity": 51.79999923706055,
+    "THBPressure": 991.9000244140625,
+    "THBTemperature": 23.34000015258789
+  },
+  {
+    "id_comparator": 2143,
+    "Cycle": 2,
+    "date": "2019-06-05T00:51:21.000Z",
+    "mass_in_g": 0.0000192,
+    "THBHumidity": 51.79999923706055,
+    "THBPressure": 991.9000244140625,
+    "THBTemperature": 23.329999923706055
+  },
+  {
+    "id_comparator": 2143,
+    "Cycle": 3,
+    "date": "2019-06-05T00:53:15.000Z",
+    "mass_in_g": 0.0000195,
+    "THBHumidity": 51.79999923706055,
+    "THBPressure": 991.9000244140625,
+    "THBTemperature": 23.329999923706055
+  },
+  {
+    "id_comparator": 2143,
+    "Cycle": 3,
+    "date": "2019-06-05T00:55:10.000Z",
+    "mass_in_g": 0.0000566,
+    "THBHumidity": 51.900001525878906,
+    "THBPressure": 991.9000244140625,
+    "THBTemperature": 23.329999923706055
+  },
+  {
+    "id_comparator": 2143,
+    "Cycle": 3,
+    "date": "2019-06-05T00:57:03.000Z",
+    "mass_in_g": 0.0000575,
+    "THBHumidity": 51.900001525878906,
+    "THBPressure": 991.9000244140625,
+    "THBTemperature": 23.329999923706055
+  },
+  {
+    "id_comparator": 2143,
+    "Cycle": 3,
+    "date": "2019-06-05T00:58:57.000Z",
+    "mass_in_g": 0.0000247,
+    "THBHumidity": 51.900001525878906,
+    "THBPressure": 991.9000244140625,
+    "THBTemperature": 23.34000015258789
+  },
+  {
+    "id_comparator": 2143,
+    "Cycle": 4,
+    "date": "2019-06-05T01:00:52.000Z",
+    "mass_in_g": 0.0000269,
+    "THBHumidity": 51.79999923706055,
+    "THBPressure": 991.9000244140625,
+    "THBTemperature": 23.329999923706055
+  },
+  {
+    "id_comparator": 2143,
+    "Cycle": 4,
+    "date": "2019-06-05T01:02:46.000Z",
+    "mass_in_g": 0.0000626,
+    "THBHumidity": 51.79999923706055,
+    "THBPressure": 992,
+    "THBTemperature": 23.329999923706055
+  },
+  {
+    "id_comparator": 2143,
+    "Cycle": 4,
+    "date": "2019-06-05T01:04:39.000Z",
+    "mass_in_g": 0.000061,
+    "THBHumidity": 51.79999923706055,
+    "THBPressure": 992,
+    "THBTemperature": 23.329999923706055
+  },
+  {
+    "id_comparator": 2143,
+    "Cycle": 4,
+    "date": "2019-06-05T01:06:34.000Z",
+    "mass_in_g": 0.0000275,
+    "THBHumidity": 51.79999923706055,
+    "THBPressure": 992,
+    "THBTemperature": 23.329999923706055
+  },
+  {
+    "id_comparator": 2143,
+    "Cycle": 5,
+    "date": "2019-06-05T01:16:04.000Z",
+    "mass_in_g": 0.000032,
+    "THBHumidity": 51.70000076293945,
+    "THBPressure": 991.9000244140625,
+    "THBTemperature": 23.329999923706055
+  },
+  {
+    "id_comparator": 2143,
+    "Cycle": 5,
+    "date": "2019-06-05T01:17:58.000Z",
+    "mass_in_g": 0.0000703,
+    "THBHumidity": 51.70000076293945,
+    "THBPressure": 991.7999877929688,
+    "THBTemperature": 23.34000015258789
+  },
+  {
+    "id_comparator": 2143,
+    "Cycle": 5,
+    "date": "2019-06-05T01:19:51.000Z",
+    "mass_in_g": 0.0000693,
+    "THBHumidity": 51.70000076293945,
+    "THBPressure": 991.7999877929688,
+    "THBTemperature": 23.31999969482422
+  },
+  {
+    "id_comparator": 2143,
+    "Cycle": 5,
+    "date": "2019-06-05T01:21:46.000Z",
+    "mass_in_g": 0.0000367,
+    "THBHumidity": 51.70000076293945,
+    "THBPressure": 991.7999877929688,
+    "THBTemperature": 23.329999923706055
+  },
+  {
+    "id_comparator": 2143,
+    "Cycle": 6,
+    "date": "2019-06-05T01:23:40.000Z",
+    "mass_in_g": 0.0000365,
+    "THBHumidity": 51.79999923706055,
+    "THBPressure": 991.7999877929688,
+    "THBTemperature": 23.31999969482422
+  },
+  {
+    "id_comparator": 2143,
+    "Cycle": 6,
+    "date": "2019-06-05T01:25:35.000Z",
+    "mass_in_g": 0.0000761,
+    "THBHumidity": 51.70000076293945,
+    "THBPressure": 991.7000122070312,
+    "THBTemperature": 23.31999969482422
+  },
+  {
+    "id_comparator": 2143,
+    "Cycle": 6,
+    "date": "2019-06-05T01:27:28.000Z",
+    "mass_in_g": 0.0000772,
+    "THBHumidity": 51.599998474121094,
+    "THBPressure": 991.7999877929688,
+    "THBTemperature": 23.329999923706055
+  },
+  {
+    "id_comparator": 2143,
+    "Cycle": 6,
+    "date": "2019-06-05T01:29:22.000Z",
+    "mass_in_g": 0.0000412,
+    "THBHumidity": 51.70000076293945,
+    "THBPressure": 991.7999877929688,
+    "THBTemperature": 23.31999969482422
+  },
+  {
+    "id_comparator": 2145,
+    "Cycle": 1,
+    "date": "2019-06-05T14:39:56.000Z",
+    "mass_in_g": 0.000008,
+    "THBHumidity": 53.599998474121094,
+    "THBPressure": 990.5999755859375,
+    "THBTemperature": 23.8799991607666
+  },
+  {
+    "id_comparator": 2145,
+    "Cycle": 1,
+    "date": "2019-06-05T14:41:50.000Z",
+    "mass_in_g": -0.0000409,
+    "THBHumidity": 53.5,
+    "THBPressure": 990.5999755859375,
+    "THBTemperature": 23.8799991607666
+  },
+  {
+    "id_comparator": 2145,
+    "Cycle": 1,
+    "date": "2019-06-05T14:43:44.000Z",
+    "mass_in_g": -0.000041,
+    "THBHumidity": 53.400001525878906,
+    "THBPressure": 990.5999755859375,
+    "THBTemperature": 23.8799991607666
+  },
+  {
+    "id_comparator": 2145,
+    "Cycle": 1,
+    "date": "2019-06-05T14:45:39.000Z",
+    "mass_in_g": 0.0000123,
+    "THBHumidity": 53.400001525878906,
+    "THBPressure": 990.5999755859375,
+    "THBTemperature": 23.8700008392334
+  },
+  {
+    "id_comparator": 2145,
+    "Cycle": 2,
+    "date": "2019-06-05T14:47:33.000Z",
+    "mass_in_g": 0.000014,
+    "THBHumidity": 53.400001525878906,
+    "THBPressure": 990.5999755859375,
+    "THBTemperature": 23.8700008392334
+  },
+  {
+    "id_comparator": 2145,
+    "Cycle": 2,
+    "date": "2019-06-05T14:49:27.000Z",
+    "mass_in_g": -0.0000367,
+    "THBHumidity": 53.5,
+    "THBPressure": 990.5999755859375,
+    "THBTemperature": 23.860000610351562
+  },
+  {
+    "id_comparator": 2145,
+    "Cycle": 2,
+    "date": "2019-06-05T14:51:21.000Z",
+    "mass_in_g": -0.0000378,
+    "THBHumidity": 53.5,
+    "THBPressure": 990.7000122070312,
+    "THBTemperature": 23.860000610351562
+  },
+  {
+    "id_comparator": 2145,
+    "Cycle": 2,
+    "date": "2019-06-05T14:53:15.000Z",
+    "mass_in_g": 0.0000133,
+    "THBHumidity": 53.599998474121094,
+    "THBPressure": 990.5999755859375,
+    "THBTemperature": 23.850000381469727
+  },
+  {
+    "id_comparator": 2145,
+    "Cycle": 3,
+    "date": "2019-06-05T14:55:09.000Z",
+    "mass_in_g": 0.0000158,
+    "THBHumidity": 53.599998474121094,
+    "THBPressure": 990.5999755859375,
+    "THBTemperature": 23.850000381469727
+  },
+  {
+    "id_comparator": 2145,
+    "Cycle": 3,
+    "date": "2019-06-05T14:57:03.000Z",
+    "mass_in_g": -0.0000373,
+    "THBHumidity": 53.599998474121094,
+    "THBPressure": 990.5999755859375,
+    "THBTemperature": 23.84000015258789
+  },
+  {
+    "id_comparator": 2145,
+    "Cycle": 3,
+    "date": "2019-06-05T14:58:57.000Z",
+    "mass_in_g": -0.0000359,
+    "THBHumidity": 53.599998474121094,
+    "THBPressure": 990.5999755859375,
+    "THBTemperature": 23.829999923706055
+  },
+  {
+    "id_comparator": 2145,
+    "Cycle": 3,
+    "date": "2019-06-05T15:00:51.000Z",
+    "mass_in_g": 0.000016,
+    "THBHumidity": 53.599998474121094,
+    "THBPressure": 990.5999755859375,
+    "THBTemperature": 23.829999923706055
+  },
+  {
+    "id_comparator": 2145,
+    "Cycle": 4,
+    "date": "2019-06-05T15:10:21.000Z",
+    "mass_in_g": 0.0000169,
+    "THBHumidity": 53.79999923706055,
+    "THBPressure": 990.7000122070312,
+    "THBTemperature": 23.799999237060547
+  },
+  {
+    "id_comparator": 2145,
+    "Cycle": 4,
+    "date": "2019-06-05T15:12:15.000Z",
+    "mass_in_g": -0.0000313,
+    "THBHumidity": 53.900001525878906,
+    "THBPressure": 990.7000122070312,
+    "THBTemperature": 23.790000915527344
+  },
+  {
+    "id_comparator": 2145,
+    "Cycle": 4,
+    "date": "2019-06-05T15:14:09.000Z",
+    "mass_in_g": -0.0000336,
+    "THBHumidity": 53.900001525878906,
+    "THBPressure": 990.7000122070312,
+    "THBTemperature": 23.790000915527344
+  },
+  {
+    "id_comparator": 2145,
+    "Cycle": 4,
+    "date": "2019-06-05T15:16:03.000Z",
+    "mass_in_g": 0.0000181,
+    "THBHumidity": 53.79999923706055,
+    "THBPressure": 990.7000122070312,
+    "THBTemperature": 23.780000686645508
+  },
+  {
+    "id_comparator": 2145,
+    "Cycle": 5,
+    "date": "2019-06-05T15:17:57.000Z",
+    "mass_in_g": 0.0000179,
+    "THBHumidity": 53.900001525878906,
+    "THBPressure": 990.7000122070312,
+    "THBTemperature": 23.780000686645508
+  },
+  {
+    "id_comparator": 2145,
+    "Cycle": 5,
+    "date": "2019-06-05T15:19:51.000Z",
+    "mass_in_g": -0.0000293,
+    "THBHumidity": 53.900001525878906,
+    "THBPressure": 990.5999755859375,
+    "THBTemperature": 23.780000686645508
+  },
+  {
+    "id_comparator": 2145,
+    "Cycle": 5,
+    "date": "2019-06-05T15:21:45.000Z",
+    "mass_in_g": -0.000029,
+    "THBHumidity": 53.900001525878906,
+    "THBPressure": 990.7000122070312,
+    "THBTemperature": 23.770000457763672
+  },
+  {
+    "id_comparator": 2145,
+    "Cycle": 5,
+    "date": "2019-06-05T15:23:39.000Z",
+    "mass_in_g": 0.0000228,
+    "THBHumidity": 53.900001525878906,
+    "THBPressure": 990.7000122070312,
+    "THBTemperature": 23.760000228881836
+  },
+  {
+    "id_comparator": 2145,
+    "Cycle": 6,
+    "date": "2019-06-05T15:25:33.000Z",
+    "mass_in_g": 0.0000233,
+    "THBHumidity": 54,
+    "THBPressure": 990.7000122070312,
+    "THBTemperature": 23.75
+  },
+  {
+    "id_comparator": 2145,
+    "Cycle": 6,
+    "date": "2019-06-05T15:27:28.000Z",
+    "mass_in_g": -0.0000251,
+    "THBHumidity": 53.900001525878906,
+    "THBPressure": 990.7000122070312,
+    "THBTemperature": 23.75
+  },
+  {
+    "id_comparator": 2145,
+    "Cycle": 6,
+    "date": "2019-06-05T15:29:22.000Z",
+    "mass_in_g": -0.0000254,
+    "THBHumidity": 53.900001525878906,
+    "THBPressure": 990.5999755859375,
+    "THBTemperature": 23.75
+  },
+  {
+    "id_comparator": 2145,
+    "Cycle": 6,
+    "date": "2019-06-05T15:31:16.000Z",
+    "mass_in_g": 0.0000289,
+    "THBHumidity": 53.900001525878906,
+    "THBPressure": 990.5999755859375,
+    "THBTemperature": 23.739999771118164
+  }
+]
